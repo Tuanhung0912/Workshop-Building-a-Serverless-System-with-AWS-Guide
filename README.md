@@ -1,1 +1,1 @@
-# Workshop-Intelligent-Image-Recognition-with-Amazon-Rekognition-and-Serverless-Stack-Guide
+# Workshop-Building-a-Serverless-System-with-AWS-Guide
